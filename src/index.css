@@ -3,29 +3,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.background {
-  background-image: url(../src/assets/bg-pattern-intro-left-desktop.svg);
-  position: relative;
-  top: 26.8rem;
-  z-index: 99;
-  background-repeat: no-repeat;
-  width: 14.8%;
-}
-.right-background {
-  background-image: url(../src/assets/bg-pattern-intro-right-desktop.svg);
-  background-position: right;
-  position: relative;
-  z-index: 10;
-  background-repeat: no-repeat;
-  width: 100%;
-}
-/* .bgimage {
-  background-image: url(../src/assets/bg-pattern-footer-desktop.svg);
-  background-position: left;
-  position: relative;
-  bottom: 2rem;
-  width: 35rem;
-  height: 100%;
-  background-repeat: no-repeat;
-} */
